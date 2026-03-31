@@ -1,9 +1,8 @@
 # FTIR Spectroscopy + Machine Learning for Oral Lesion Classification
 
-This repository contains the main code and supporting thesis for an MPhys project investigating whether Fourier Transform Infrared (FTIR) spectroscopy combined with **machine learning** can help distinguish benign and malignant oral epithelial lesions.
+This repository contains the main code and supporting thesis for my MPhys project investigating whether Fourier Transform Infrared (FTIR) spectroscopy combined with machine learning methods can help distinguish benign and malignant oral epithelial lesions.
 
-The project focuses on whether the **functional IR band (2200–4000 cm⁻¹)**, which can be measured on standard **glass slides**, can provide clinically useful classification performance compared with the traditional **fingerprint band (1000–1800 cm⁻¹)** measured on CaF2 substrates. 
-
+The project focuses on whether the functional IR band (2200–4000 cm⁻¹), which can be measured on standard **glass slides**, can provide clinically useful classification performance compared with the traditional fingerprint band (1000–1800 cm⁻¹) measured on CaF2 substrates. 
 
 
 ## What this repository includes
