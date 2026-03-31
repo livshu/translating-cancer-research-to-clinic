@@ -75,3 +75,5 @@ A major barrier to FTIR adoption in pathology is the need for CaF2 slides, where
 ## Thesis
 
 The accompanying thesis is included here as the main scientific reference for the project.
+
+![Thesis key result](images/KeyResultThesis.png)
